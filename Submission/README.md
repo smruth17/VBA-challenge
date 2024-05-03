@@ -1,0 +1,3 @@
+# ds_2024_module2_vba
+Homework for Module 2 - VBA
+The VBA assignment for Module 2 included starter code for Stock data over the course of a year, separated by quarter. I had to script through all the stocks for each quarter (at the same time) and output the ticker symbol, quarterly change, percent change and total stock volume. The second part of the assignment was to return the greatest percent increase, greatest percent decrease, and greatest total volume along with its corresponding ticker symbol. In VBA code, I created summary tables, nested loops or conditionals and conditional formatting. I used the expert for a lot of it as well as asked the TA's a bunch of questions and watched tutorials from Alexander. This was a tough assignment. 
